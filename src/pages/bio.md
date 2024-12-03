@@ -1,4 +1,4 @@
-# Let's Connect!
+# Brothers Badminton BD!
 
 - [<i class="fab fa-twitter"></i><span>Twitter</span>](https://twitter.com/)
 - [<i class="fab fa-linkedin"></i><span>LinkedIn</span>](https://linkedin.com/)
